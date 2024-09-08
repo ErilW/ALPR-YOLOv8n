@@ -164,7 +164,7 @@ cython_debug/
 
 exp/
 src/weights/RealESRGAN_x4plus.pth
-<<<<<<< HEAD
 src/assets/comic.png
 src/assets/sample_text.png
+src/assets/char_classification.v2i.folder/
 #.idea/
