@@ -11,9 +11,12 @@ Automatic License Plate Recognition Using EasyOCR, YOLOvn, and RealsGan
 ```bash 
 pip install -r requirements.txt
 ```
-
+[Google Collab For Getting model](https://colab.research.google.com/drive/1QCXMBu_gfWSA-Ry89XhSE_XsmDE3aWSZ?authuser=2#scrollTo=7mEyNdfv6zqM)
 ## Usage
 ```bash
 python main.py --image <Path to image>
 ```
+
+
+
 
